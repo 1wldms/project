@@ -1,2 +1,3 @@
 # project
-for getting pinterest api
+개인정보처리방침
+
